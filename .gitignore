@@ -185,4 +185,4 @@ Thumbs.db
 # -------------------------
 # Example custom ignored file
 # -------------------------
-.h3m
+*.h3m
